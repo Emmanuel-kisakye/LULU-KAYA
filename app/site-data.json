@@ -1,0 +1,1807 @@
+{
+  "retailMinMl": 20,
+  "sizes": [
+    {
+      "ml": 3,
+      "retail": 5000,
+      "wholesale": 36000,
+      "unit": 12
+    },
+    {
+      "ml": 6,
+      "retail": 10000,
+      "wholesale": 72000,
+      "unit": 12
+    },
+    {
+      "ml": 10,
+      "retail": 15000,
+      "wholesale": 100000,
+      "unit": 12
+    },
+    {
+      "ml": 20,
+      "retail": 30000,
+      "wholesale": 25000,
+      "unit": 1
+    },
+    {
+      "ml": 30,
+      "retail": 50000,
+      "wholesale": 35000,
+      "unit": 1
+    },
+    {
+      "ml": 50,
+      "retail": 80000,
+      "wholesale": 55000,
+      "unit": 1
+    },
+    {
+      "ml": 100,
+      "retail": 150000,
+      "wholesale": 110000,
+      "unit": 1
+    }
+  ],
+  "commission": [
+    1000,
+    3000,
+    3000,
+    5000,
+    10000,
+    20000,
+    35000
+  ],
+  "wholesaleMinimum": 288000,
+  "contact": {
+    "whatsapp": "256793196848",
+    "phones": [
+      "+256 793 196 848",
+      "+256 730 727 428"
+    ],
+    "email": "lulukaya@adisiyaafrika.com"
+  },
+  "social": [
+    [
+      "TikTok",
+      "https://www.tiktok.com/@lulu.kaya.perfumes"
+    ],
+    [
+      "Instagram",
+      "https://www.instagram.com/lulu.kaya.perfumes"
+    ]
+  ],
+  "reviewEmpty": {
+    "customer": "No customer testimonials are shown here yet. Bought a perfume from us? Yours could be the first.",
+    "retailer": "No retailer testimonials are shown here yet. Buying wholesale from us? Tell us how your sales are going.",
+    "agent": "No agent testimonials are shown here yet. Selling with us as an agent? Share your story."
+  },
+  "scents": [
+    "Armani Code Ice",
+    "Armani Code Black",
+    "Acqua Di Gio",
+    "Angel Man",
+    "Allure Homme Sport",
+    "Adidas",
+    "Amberwood",
+    "Azzaro Chrome",
+    "Blue Seduction",
+    "Baccarat",
+    "Black Oud",
+    "Black XS",
+    "Blue De Chanel",
+    "Black L'Excess",
+    "BMW",
+    "Bvlgari Man In Black",
+    "Bentley Intense",
+    "Chastity",
+    "Chelsea",
+    "CK One",
+    "Cool Water Man",
+    "Creed Aventus",
+    "Club De Nuit",
+    "Dunhill Desire Red",
+    "Dunhill Desire Blue",
+    "Dunhill Desire Blue Ocean",
+    "Drakkar Noir",
+    "Diesel Bad Intense",
+    "Diesel Only The Brave",
+    "Dolce & Gabbana Light Blue",
+    "Dolce & Gabbana The One",
+    "David Beckham Instinct",
+    "Eternity Man",
+    "Euphoria Man",
+    "Emotions",
+    "Ferrari Black",
+    "Ferrari Cedar",
+    "Ferrari Red",
+    "Ferrari Blue",
+    "Gucci Guilty Black Man",
+    "Givenchy Xeryus",
+    "Givenchy Blue Label",
+    "Givenchy II",
+    "Gentle Fluidity",
+    "Gucci Oud",
+    "Jazz Club",
+    "Jimmy Choo Intense",
+    "Jimmy Choo Blue Man",
+    "James Bond",
+    "Jaguar Classic",
+    "Invictus",
+    "Issey Miyake",
+    "Issey Miyake Sport",
+    "Hugo Boss Man",
+    "Hugo Boss Orange",
+    "L'Homme A La Rose",
+    "Le Labo Santal",
+    "Lacoste White",
+    "Lacoste Black",
+    "Lacoste Challenge",
+    "Polo Black",
+    "Royal Decadence",
+    "Royale",
+    "One Million",
+    "Legend Mont Blanc",
+    "212 VIP Man",
+    "212 Sexy Man",
+    "Polosport",
+    "Polo Red",
+    "Polo Blue",
+    "Platinum",
+    "Phantom",
+    "Prada Man",
+    "Mercedes Benz",
+    "One Man Show",
+    "Tom Ford Black Orchid",
+    "Tom Ford Noir",
+    "Tom Ford Oud Wood",
+    "Tobacco Vanilla",
+    "Shaghaf Swiss",
+    "Summer Sport",
+    "Shalis Man",
+    "Superman",
+    "Sauvage Dior",
+    "Versace Eros",
+    "Versace Dylan Blue",
+    "Sweet Passion",
+    "Lemonade",
+    "Pineapple",
+    "Strawberry",
+    "Tropical",
+    "Lemon Force",
+    "Orange",
+    "Lavender",
+    "Amor Amor",
+    "Angel Nova",
+    "Kimoji Peach",
+    "Citrus Tea",
+    "Sweet Vanilla",
+    "Grapefruit",
+    "Coconut Passion",
+    "Green Tea",
+    "Black Vanilla",
+    "Chocolate",
+    "Green Passion",
+    "Beyonce Pulse",
+    "Burberry Her",
+    "Bubble Gum",
+    "Blooming Bouquet",
+    "Because It's You",
+    "Beyonce Heat Rush",
+    "Black Opium",
+    "Burberry Weekend",
+    "Burberry Body",
+    "Bombshell",
+    "Beach Walk",
+    "Coco Noir Chanel",
+    "Crazy Love",
+    "Cool Water Woman",
+    "Coco Chanel",
+    "Coco Mademoiselle",
+    "Crush On Me",
+    "Camilla Gold",
+    "Casino Love",
+    "Chance Chanel",
+    "Escada Miami",
+    "Euphoria Woman",
+    "Escada Cherry In The Air",
+    "Ed Hardy Femme",
+    "Eternity Woman",
+    "Exclusif",
+    "Escada Magnetism",
+    "Daisy Marc Jacobs Decadence",
+    "Escada Sorbetto Rosso",
+    "Delina La Rosee",
+    "Escada Sexy Graffiti",
+    "Escada Pacific Paradise",
+    "Escada Taj Sunset",
+    "Escada Moon Sparkle",
+    "Essence Of Eden",
+    "Givenchy L'Interdit",
+    "Fantasy",
+    "Purple Fantasy",
+    "Glow After Dark",
+    "Givenchy Irresistible",
+    "Gucci Rush",
+    "Gucci Guilty Black Woman",
+    "Girl Of Now",
+    "Gucci Flora",
+    "Golden Dust",
+    "Jennifer Lopez Live",
+    "Jewel Of Jasmine",
+    "Juliet Has A Gun",
+    "Initio Side Effect",
+    "La Vie Est Belle",
+    "Love Spell",
+    "Lacoste Femme",
+    "Libre",
+    "Lady Million",
+    "La Nuit Tresor",
+    "Lattafa Oud Mood",
+    "Life Is Beautiful",
+    "Lattafa Ajwad",
+    "Kenzo Amour",
+    "Hypnotic Poison",
+    "Nude",
+    "Kim Kardashian Gold",
+    "Jadore",
+    "Heart Breaker",
+    "My Way",
+    "Midnight Fantasy",
+    "Mayar By Lattafa",
+    "Midnight Love",
+    "So Mad About You",
+    "Marry Me",
+    "Marry Me Intense",
+    "Oud Bouquet",
+    "Olympea",
+    "One In A Million",
+    "Pink Amber",
+    "Pleasures",
+    "Pure Musk",
+    "Pink Sugar",
+    "Pearl Oud",
+    "Pearl",
+    "Pure Seduction",
+    "Pink Chiffon",
+    "Purple Seduction",
+    "Sugar Baby",
+    "Sweet Camilla",
+    "Si Armani",
+    "Scandal",
+    "Super Love",
+    "Sexy Love",
+    "Soft",
+    "Sacred Love",
+    "Stronger With You",
+    "Sunrise",
+    "Sparkling Glow",
+    "Sexy Angel",
+    "212 VIP Red Rose",
+    "Scandal By Night",
+    "Brown Orchid",
+    "Red Door",
+    "Secret",
+    "Pearl White",
+    "Riri",
+    "Water Lily",
+    "A Thousand Wishes",
+    "Romance",
+    "Sheer Pink",
+    "Vanilla Flora",
+    "Yellow Diamond",
+    "Vanilla",
+    "Vera",
+    "Vanilla Island",
+    "Tommy Girl",
+    "Versace Crystal Noir",
+    "Tiffany",
+    "Very Sexy Now",
+    "Victoria Secret",
+    "One Night In Paris",
+    "Ocean Lounge",
+    "Oud Vanilla",
+    "Baby Powder",
+    "Ameerat Arab",
+    "Ameere Imperium",
+    "Berries Weekend",
+    "Club De Nuit Woman",
+    "Gucci Guilty Man",
+    "Khamrah By Lattafa",
+    "Lemon",
+    "Marshmallow Blush",
+    "Mosut Brown",
+    "Musuf Brown",
+    "Paradise",
+    "Rave Now",
+    "Wisal",
+    "Yara Candy",
+    "Yara Pink",
+    "Yum Pistachio",
+    "Yum Boujee",
+    "Yara Elixir",
+    "Vanilla Powder",
+    "Vanilla Candy Rock Sugar",
+    "Rave Now Pink",
+    "Kayali Vanilla 28",
+    "Yara",
+    "Qahwa",
+    "Eclaire",
+    "Kayali Eden Juice",
+    "9PM",
+    "Sultan"
+  ],
+  "scentGroups": "mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwuuuwmuuwuuuuuwwuuuuuuussssss",
+  "mixMinMl": 20,
+  "loyalty": {
+    "retail": 50000,
+    "wholesale": 72000
+  },
+  "loyaltyRedeem": 7,
+  "bodaPerKm": 1000,
+  "bodaMinimum": 3000,
+  "bodaRound": 500,
+  "areas": [
+    [
+      "Banda",
+      6
+    ],
+    [
+      "Bugolobi",
+      6
+    ],
+    [
+      "Bukoto",
+      1
+    ],
+    [
+      "Bwaise",
+      5
+    ],
+    [
+      "Bweyogerere",
+      11
+    ],
+    [
+      "City centre",
+      6
+    ],
+    [
+      "Gayaza",
+      15
+    ],
+    [
+      "Ggaba",
+      14
+    ],
+    [
+      "Kabalagala",
+      8
+    ],
+    [
+      "Kalerwe",
+      3
+    ],
+    [
+      "Kamwokya",
+      2
+    ],
+    [
+      "Kansanga",
+      10
+    ],
+    [
+      "Kasubi",
+      7
+    ],
+    [
+      "Kawempe",
+      7
+    ],
+    [
+      "Kibuye",
+      9
+    ],
+    [
+      "Kira",
+      10
+    ],
+    [
+      "Kireka",
+      8
+    ],
+    [
+      "Kisaasi",
+      2
+    ],
+    [
+      "Kiwatule",
+      5
+    ],
+    [
+      "Kololo",
+      3
+    ],
+    [
+      "Komamboga",
+      5
+    ],
+    [
+      "Kulambiro",
+      5
+    ],
+    [
+      "Kyaliwajjala",
+      9
+    ],
+    [
+      "Kyambogo",
+      5
+    ],
+    [
+      "Kyanja",
+      5
+    ],
+    [
+      "Kyebando",
+      3
+    ],
+    [
+      "Luzira",
+      11
+    ],
+    [
+      "Makerere",
+      5
+    ],
+    [
+      "Makindye",
+      11
+    ],
+    [
+      "Mbuya",
+      7
+    ],
+    [
+      "Mengo",
+      9
+    ],
+    [
+      "Mulago",
+      3
+    ],
+    [
+      "Munyonyo",
+      17
+    ],
+    [
+      "Mutungo",
+      8
+    ],
+    [
+      "Muyenga",
+      9
+    ],
+    [
+      "Naalya",
+      8
+    ],
+    [
+      "Naguru",
+      2
+    ],
+    [
+      "Najjanankumbi",
+      11
+    ],
+    [
+      "Najjera",
+      8
+    ],
+    [
+      "Nakawa",
+      4
+    ],
+    [
+      "Namugongo",
+      11
+    ],
+    [
+      "Nansana",
+      10
+    ],
+    [
+      "Nateete",
+      12
+    ],
+    [
+      "Nsambya",
+      8
+    ],
+    [
+      "Ntinda",
+      3
+    ],
+    [
+      "Rubaga",
+      10
+    ],
+    [
+      "Seeta",
+      16
+    ],
+    [
+      "Wandegeya",
+      4
+    ]
+  ],
+  "towns": [
+    [
+      "Arua",
+      20000
+    ],
+    [
+      "Busia",
+      11000
+    ],
+    [
+      "Entebbe",
+      6000
+    ],
+    [
+      "Fort Portal",
+      14000
+    ],
+    [
+      "Gulu",
+      15000
+    ],
+    [
+      "Hoima",
+      11000
+    ],
+    [
+      "Iganga",
+      8000
+    ],
+    [
+      "Jinja",
+      7000
+    ],
+    [
+      "Kabale",
+      18000
+    ],
+    [
+      "Kasese",
+      16000
+    ],
+    [
+      "Lira",
+      15000
+    ],
+    [
+      "Luweero",
+      6000
+    ],
+    [
+      "Masaka",
+      9000
+    ],
+    [
+      "Masindi",
+      11000
+    ],
+    [
+      "Mbale",
+      12000
+    ],
+    [
+      "Mbarara",
+      13000
+    ],
+    [
+      "Mityana",
+      7000
+    ],
+    [
+      "Mpigi",
+      6000
+    ],
+    [
+      "Mubende",
+      9000
+    ],
+    [
+      "Mukono",
+      5000
+    ],
+    [
+      "Soroti",
+      14000
+    ],
+    [
+      "Tororo",
+      11000
+    ],
+    [
+      "Wakiso",
+      5000
+    ]
+  ],
+  "scentProfiles": {
+    "Armani Code Black": [
+      "Woody",
+      "bergamot, lemon",
+      "star anise, olive blossom",
+      "tonka bean, leather, tobacco, guaiac wood",
+      "Smooth, slightly sweet and smart. Made for evenings."
+    ],
+    "Acqua Di Gio": [
+      "Fresh",
+      "bergamot, lime, lemon, neroli",
+      "sea notes, jasmine, rosemary",
+      "cedar, musk, patchouli",
+      "Clean citrus and sea breeze."
+    ],
+    "Angel Man": [
+      "Sweet",
+      "lavender, mint, bergamot",
+      "patchouli, honey, caramel",
+      "coffee, vanilla, tonka bean, chocolate",
+      "Coffee, caramel and patchouli. Bold and sweet."
+    ],
+    "Allure Homme Sport": [
+      "Fresh",
+      "orange, sea notes, aldehydes",
+      "pepper, neroli, cedar",
+      "tonka bean, vanilla, white musk, vetiver",
+      "Sporty citrus with a creamy, clean finish."
+    ],
+    "Amberwood": [
+      "Amber & Oud",
+      "",
+      "",
+      "",
+      "Warm amber over dry woods."
+    ],
+    "Azzaro Chrome": [
+      "Fresh",
+      "lemon, rosemary, pineapple, bergamot",
+      "jasmine, oakmoss, cyclamen",
+      "musk, cedar, tonka bean, sandalwood",
+      "Bright, metallic-clean citrus."
+    ],
+    "Blue Seduction": [
+      "Fresh",
+      "bergamot, mint, melon, blackcurrant",
+      "cappuccino, cardamom, sea water",
+      "woods, amber",
+      "Cool and watery with a light coffee twist."
+    ],
+    "Baccarat": [
+      "Amber & Oud",
+      "saffron, jasmine",
+      "amber wood, ambergris",
+      "fir resin, cedar",
+      "Airy burnt sugar and amber. Very long lasting."
+    ],
+    "Black Oud": [
+      "Amber & Oud",
+      "",
+      "",
+      "",
+      "Deep, dark oud."
+    ],
+    "Black XS": [
+      "Sweet",
+      "lemon, sage",
+      "praline, cinnamon, tolu balsam, black cardamom",
+      "patchouli, amber, ebony wood",
+      "Sweet praline and spice over dark woods."
+    ],
+    "Blue De Chanel": [
+      "Fresh",
+      "grapefruit, lemon, mint, pink pepper",
+      "ginger, nutmeg, jasmine",
+      "incense, cedar, sandalwood, vetiver",
+      "Crisp citrus that settles into clean, smoky woods."
+    ],
+    "Bvlgari Man In Black": [
+      "Amber & Oud",
+      "rum, spices",
+      "leather, iris, tuberose",
+      "benzoin, tonka bean, guaiac wood",
+      "Spiced rum and leather. Warm and bold."
+    ],
+    "Bentley Intense": [
+      "Woody",
+      "black pepper, bergamot, bay leaf",
+      "rum, cinnamon, clary sage",
+      "leather, benzoin, patchouli, cedar",
+      "Boozy, spicy and leathery. A strong evening scent."
+    ],
+    "CK One": [
+      "Fresh",
+      "lemon, bergamot, pineapple, mandarin",
+      "jasmine, violet, rose, nutmeg",
+      "musk, amber, cedar, sandalwood",
+      "Light, clean citrus that anyone can wear."
+    ],
+    "Cool Water Man": [
+      "Fresh",
+      "mint, lavender, sea water, coriander, rosemary",
+      "sandalwood, geranium, jasmine, neroli",
+      "musk, oakmoss, cedar, amber",
+      "Cool, clean and ocean-fresh."
+    ],
+    "Creed Aventus": [
+      "Woody",
+      "pineapple, bergamot, blackcurrant, apple",
+      "birch, patchouli, jasmine, rose",
+      "musk, oakmoss, ambergris, vanilla",
+      "Smoky pineapple over woods and musk. Confident and long lasting."
+    ],
+    "Dunhill Desire Red": [
+      "Woody",
+      "apple, bergamot, neroli, lemon",
+      "rose, teak wood, patchouli",
+      "vanilla, labdanum, musk",
+      "Sweet apple and rose over warm vanilla woods."
+    ],
+    "Dunhill Desire Blue": [
+      "Fresh",
+      "lychee, bergamot, mandarin",
+      "sea notes, orange blossom",
+      "tonka bean, amber, musk",
+      "Fresh, slightly sweet and easy to wear every day."
+    ],
+    "Drakkar Noir": [
+      "Woody",
+      "lavender, lemon, rosemary, basil",
+      "juniper, coriander, cinnamon",
+      "oakmoss, leather, patchouli, fir",
+      "Classic barbershop fresh: herbs, moss and leather."
+    ],
+    "Diesel Only The Brave": [
+      "Woody",
+      "lemon, mandarin",
+      "violet, rosemary, cedar",
+      "amber, leather, labdanum",
+      "Lemon over warm leather and amber."
+    ],
+    "Dolce & Gabbana Light Blue": [
+      "Fresh",
+      "grapefruit, bergamot, mandarin, juniper",
+      "rosemary, pepper, rosewood",
+      "musk, oakmoss, incense",
+      "Crisp Mediterranean citrus."
+    ],
+    "Dolce & Gabbana The One": [
+      "Woody",
+      "grapefruit, coriander, basil",
+      "ginger, cardamom, orange blossom",
+      "amber, tobacco, cedar",
+      "Warm spice, tobacco and amber. Elegant."
+    ],
+    "Eternity Man": [
+      "Fresh",
+      "lavender, lemon, mandarin, bergamot",
+      "sage, juniper, basil, geranium",
+      "sandalwood, vetiver, musk, amber",
+      "Clean, green and classic."
+    ],
+    "Euphoria Man": [
+      "Woody",
+      "ginger, pepper",
+      "black basil, sage, cedar",
+      "amber, patchouli, suede, redwood",
+      "Fresh spice over smooth, dark woods."
+    ],
+    "Ferrari Black": [
+      "Woody",
+      "lime, plum, bergamot, red apple",
+      "cinnamon, jasmine, rose, cardamom",
+      "vanilla, musk, amber, cedar",
+      "Fruity and spicy on top, warm and sweet underneath."
+    ],
+    "Gucci Guilty Black Man": [
+      "Woody",
+      "lavender, coriander",
+      "orange blossom, neroli",
+      "patchouli, cedar",
+      "Green and aromatic over dark patchouli."
+    ],
+    "Givenchy Blue Label": [
+      "Fresh",
+      "",
+      "",
+      "",
+      "Crisp citrus and clean woods."
+    ],
+    "Gucci Oud": [
+      "Amber & Oud",
+      "pear, raspberry, saffron",
+      "Bulgarian rose, orange blossom",
+      "oud, patchouli, amber, musk",
+      "Fruity rose over rich oud."
+    ],
+    "Jazz Club": [
+      "Sweet",
+      "pink pepper, neroli, lemon",
+      "rum, clary sage, vetiver",
+      "tobacco leaf, vanilla, styrax",
+      "Rum, tobacco and vanilla, like a warm lounge."
+    ],
+    "Jimmy Choo Intense": [
+      "Woody",
+      "lavender, mandarin, honeydew melon",
+      "geranium, pineapple leaf",
+      "tonka bean, patchouli",
+      "Fresh lavender and melon over sweet patchouli."
+    ],
+    "Jimmy Choo Blue Man": [
+      "Woody",
+      "clary sage, bergamot, black pepper",
+      "leather",
+      "sandalwood, vetiver, vanilla",
+      "Fresh and aromatic over soft leather."
+    ],
+    "Invictus": [
+      "Fresh",
+      "grapefruit, sea notes, mandarin",
+      "bay leaf, jasmine",
+      "ambergris, guaiac wood, oakmoss, patchouli",
+      "Sporty and salty-fresh with a woody finish."
+    ],
+    "Issey Miyake": [
+      "Fresh",
+      "yuzu, lemon, bergamot, mandarin",
+      "nutmeg, water lily, cinnamon",
+      "sandalwood, cedar, vetiver, musk",
+      "Sharp yuzu citrus over light woods."
+    ],
+    "Le Labo Santal": [
+      "Woody",
+      "cardamom, violet",
+      "iris, papyrus",
+      "sandalwood, cedar, leather",
+      "Creamy, dry sandalwood."
+    ],
+    "Lacoste White": [
+      "Fresh",
+      "grapefruit, rosemary, cardamom",
+      "tuberose, ylang-ylang",
+      "suede, cedar, vetiver",
+      "Clean and crisp, like a fresh white shirt."
+    ],
+    "Lacoste Black": [
+      "Woody",
+      "watermelon",
+      "basil, verbena, lavender",
+      "dark chocolate, cashmere wood, patchouli",
+      "Fresh watermelon on top, dark and smooth underneath."
+    ],
+    "Polo Black": [
+      "Woody",
+      "iced mango",
+      "sage",
+      "patchouli, sandalwood, tonka bean",
+      "Cool mango over dark, smooth woods."
+    ],
+    "One Million": [
+      "Woody",
+      "blood mandarin, grapefruit, mint",
+      "cinnamon, rose, spices",
+      "leather, amber, woods, patchouli",
+      "Sweet spice and leather. Loud and long lasting."
+    ],
+    "Legend Mont Blanc": [
+      "Fresh",
+      "lavender, pineapple, bergamot, lemon verbena",
+      "red apple, oakmoss, geranium, rose",
+      "tonka bean, sandalwood",
+      "Fresh fruit and lavender. Easy to wear daily."
+    ],
+    "212 VIP Man": [
+      "Woody",
+      "lime, pepper, ginger, passion fruit",
+      "mint, spices, a vodka and gin accord",
+      "amber, leather, woods",
+      "Lively and spicy with a party feel, drying down warm."
+    ],
+    "212 Sexy Man": [
+      "Woody",
+      "mandarin, bergamot, green notes",
+      "pepper, cardamom, flowers",
+      "vanilla, sandalwood, guaiac wood, musk",
+      "Warm and smooth, with soft spice over creamy vanilla."
+    ],
+    "Polosport": [
+      "Fresh",
+      "mint, lavender, lemon, neroli",
+      "seaweed, ginger, geranium, rose",
+      "sandalwood, musk, cedar, amber",
+      "Sporty, green and clean."
+    ],
+    "Polo Red": [
+      "Woody",
+      "grapefruit, cranberry, lemon",
+      "saffron, sage",
+      "amber, coffee, redwood",
+      "Red fruit with warm coffee and wood."
+    ],
+    "Polo Blue": [
+      "Fresh",
+      "melon, cucumber, mandarin",
+      "basil, sage, geranium",
+      "suede, musk, woods",
+      "Watery melon and clean suede."
+    ],
+    "Phantom": [
+      "Fresh",
+      "lemon zest, lavender",
+      "apple, patchouli, lavender",
+      "vanilla, vetiver",
+      "Zesty lemon and creamy lavender with vanilla."
+    ],
+    "Prada Man": [
+      "Woody",
+      "neroli, black pepper",
+      "iris, violet, geranium",
+      "amber, cedar, patchouli",
+      "Clean, soapy iris over smooth amber."
+    ],
+    "One Man Show": [
+      "Woody",
+      "galbanum, bergamot, basil",
+      "rose, geranium, patchouli",
+      "leather, oakmoss, cedar, tobacco",
+      "Classic, strong and green with leather and moss."
+    ],
+    "Tom Ford Black Orchid": [
+      "Amber & Oud",
+      "truffle, gardenia, blackcurrant, ylang-ylang",
+      "orchid, spices, fruity notes",
+      "patchouli, dark chocolate, vanilla, incense, sandalwood",
+      "Dark, earthy and luxurious."
+    ],
+    "Tom Ford Noir": [
+      "Amber & Oud",
+      "bergamot, verbena, pink pepper",
+      "black pepper, nutmeg, iris, geranium",
+      "amber, patchouli, vanilla, leather",
+      "Spicy, powdery and warm."
+    ],
+    "Tom Ford Oud Wood": [
+      "Amber & Oud",
+      "rosewood, cardamom, Chinese pepper",
+      "oud, sandalwood, vetiver",
+      "tonka bean, vanilla, amber",
+      "Smooth, refined oud and sandalwood."
+    ],
+    "Tobacco Vanilla": [
+      "Sweet",
+      "tobacco leaf, spices",
+      "vanilla, cacao, tonka bean, tobacco blossom",
+      "dried fruits, woods",
+      "Sweet pipe tobacco and vanilla. Rich and cosy."
+    ],
+    "Shaghaf Swiss": [
+      "Amber & Oud",
+      "saffron",
+      "oud, rose",
+      "vanilla, praline",
+      "Saffron and oud sweetened with vanilla."
+    ],
+    "Sauvage Dior": [
+      "Fresh",
+      "bergamot, pepper",
+      "lavender, Sichuan pepper, geranium",
+      "ambroxan, cedar, labdanum",
+      "Fresh, peppery bergamot over clean amber woods."
+    ],
+    "Versace Eros": [
+      "Fresh",
+      "mint, green apple, lemon",
+      "tonka bean, geranium, ambroxan",
+      "vanilla, vetiver, oakmoss, cedar",
+      "Minty apple on top, sweet vanilla underneath."
+    ],
+    "Versace Dylan Blue": [
+      "Fresh",
+      "bergamot, grapefruit, fig leaf, aquatic notes",
+      "violet leaf, papyrus, patchouli, black pepper",
+      "musk, tonka bean, saffron, incense",
+      "Fresh and aquatic with a woody, musky base."
+    ],
+    "Lemonade": [
+      "Fresh",
+      "",
+      "",
+      "",
+      "Sweet, fizzy lemon."
+    ],
+    "Pineapple": [
+      "Fruity",
+      "",
+      "",
+      "",
+      "Sweet, ripe pineapple."
+    ],
+    "Strawberry": [
+      "Fruity",
+      "",
+      "",
+      "",
+      "Sweet, ripe strawberry."
+    ],
+    "Tropical": [
+      "Fruity",
+      "",
+      "",
+      "",
+      "Mixed tropical fruit."
+    ],
+    "Lemon Force": [
+      "Fresh",
+      "",
+      "",
+      "",
+      "Sharp, zesty lemon."
+    ],
+    "Orange": [
+      "Fresh",
+      "",
+      "",
+      "",
+      "Sweet, juicy orange."
+    ],
+    "Lavender": [
+      "Fresh",
+      "",
+      "",
+      "",
+      "Calm, clean lavender."
+    ],
+    "Amor Amor": [
+      "Fruity",
+      "blackcurrant, blood orange, mandarin, grapefruit",
+      "apricot, lily, jasmine, rose",
+      "tonka bean, vanilla, amber, musk",
+      "Juicy citrus and red fruit over a sweet floral heart."
+    ],
+    "Angel Nova": [
+      "Fruity",
+      "raspberry",
+      "rose",
+      "akigalawood, benzoin",
+      "Bright raspberry and rose with a woody finish."
+    ],
+    "Kimoji Peach": [
+      "Fruity",
+      "",
+      "",
+      "",
+      "Juicy peach."
+    ],
+    "Citrus Tea": [
+      "Fresh",
+      "",
+      "",
+      "",
+      "Citrus over light tea."
+    ],
+    "Sweet Vanilla": [
+      "Sweet",
+      "",
+      "",
+      "",
+      "Warm, sugary vanilla."
+    ],
+    "Grapefruit": [
+      "Fresh",
+      "",
+      "",
+      "",
+      "Sharp, juicy grapefruit."
+    ],
+    "Coconut Passion": [
+      "Sweet",
+      "",
+      "",
+      "",
+      "Creamy coconut and vanilla."
+    ],
+    "Green Tea": [
+      "Fresh",
+      "",
+      "",
+      "",
+      "Light, clean green tea."
+    ],
+    "Black Vanilla": [
+      "Sweet",
+      "",
+      "",
+      "",
+      "Deep, dark vanilla."
+    ],
+    "Chocolate": [
+      "Sweet",
+      "",
+      "",
+      "",
+      "Rich chocolate."
+    ],
+    "Beyonce Pulse": [
+      "Floral",
+      "pear blossom, bergamot",
+      "orchid, peony, jasmine",
+      "vanilla, musk, woods",
+      "Citrus and flowers on soft vanilla."
+    ],
+    "Burberry Her": [
+      "Fruity",
+      "strawberry, raspberry, blackberry, sour cherry",
+      "violet, jasmine",
+      "musk, vanilla, amber, cashmere wood",
+      "A burst of red berries on soft musk."
+    ],
+    "Bubble Gum": [
+      "Sweet",
+      "",
+      "",
+      "",
+      "Sweet pink bubble gum."
+    ],
+    "Blooming Bouquet": [
+      "Floral",
+      "Sicilian mandarin",
+      "peony, Damask rose",
+      "white musk",
+      "Light, fresh peony and rose."
+    ],
+    "Because It's You": [
+      "Sweet",
+      "raspberry, neroli, lemon",
+      "rose",
+      "vanilla, musk, amber wood",
+      "Raspberry and rose wrapped in soft vanilla."
+    ],
+    "Beyonce Heat Rush": [
+      "Fruity",
+      "passion fruit, blood orange, cherry",
+      "mango blossom, orchid, hibiscus",
+      "amber, musk, teak wood",
+      "Tropical fruit punch with a warm, sunny dry-down."
+    ],
+    "Black Opium": [
+      "Sweet",
+      "pear, pink pepper, orange blossom",
+      "coffee, jasmine, bitter almond",
+      "vanilla, patchouli, cedar",
+      "Sweet coffee and vanilla with white flowers."
+    ],
+    "Burberry Weekend": [
+      "Floral",
+      "",
+      "",
+      "",
+      "Easygoing citrus and flowers."
+    ],
+    "Burberry Body": [
+      "Floral",
+      "peach, freesia",
+      "rose, iris, sandalwood",
+      "cashmere wood, musk, vanilla, amber",
+      "Soft peach and rose on creamy woods."
+    ],
+    "Bombshell": [
+      "Fruity",
+      "passion fruit, grapefruit, pineapple",
+      "peony, vanilla orchid, lily of the valley",
+      "musk, woods",
+      "Bright tropical fruit over fresh flowers."
+    ],
+    "Beach Walk": [
+      "Fresh",
+      "bergamot, pink pepper, lemon",
+      "ylang-ylang, coconut milk, heliotrope",
+      "musk, cedar, benzoin",
+      "Sun, salt and coconut, like a day at the beach."
+    ],
+    "Coco Noir Chanel": [
+      "Floral",
+      "grapefruit, bergamot",
+      "rose, narcissus, geranium, jasmine",
+      "patchouli, tonka bean, sandalwood, vanilla, musk",
+      "Dark, elegant rose and patchouli."
+    ],
+    "Cool Water Woman": [
+      "Fresh",
+      "citrus, pineapple, melon, blackcurrant",
+      "lotus, water lily, jasmine, rose",
+      "musk, sandalwood, vetiver, peach",
+      "Watery flowers and melon. Light and clean."
+    ],
+    "Coco Mademoiselle": [
+      "Floral",
+      "orange, bergamot, mandarin",
+      "rose, jasmine",
+      "patchouli, vanilla, vetiver, white musk",
+      "Fresh orange with elegant rose and patchouli."
+    ],
+    "Chance Chanel": [
+      "Floral",
+      "pink pepper, lemon, pineapple",
+      "hyacinth, jasmine, iris",
+      "amber, patchouli, vetiver, white musk",
+      "Lively, slightly spicy flowers."
+    ],
+    "Euphoria Woman": [
+      "Floral",
+      "pomegranate, persimmon, green notes",
+      "black orchid, lotus",
+      "amber, mahogany, violet, musk",
+      "Rich pomegranate and orchid. Deep and sensual."
+    ],
+    "Escada Cherry In The Air": [
+      "Fruity",
+      "sour cherry, raspberry",
+      "marshmallow, orchid",
+      "sandalwood, musk",
+      "Sweet cherry and marshmallow."
+    ],
+    "Ed Hardy Femme": [
+      "Fruity",
+      "mango, strawberry, apple, grapefruit",
+      "freesia, lily of the valley, linden blossom",
+      "amber, tonka bean, musk",
+      "Sweet tropical fruit with a soft floral heart."
+    ],
+    "Eternity Woman": [
+      "Floral",
+      "freesia, mandarin, sage",
+      "lily, lily of the valley, narcissus, rose",
+      "sandalwood, amber, musk, patchouli",
+      "Clean, classic white flowers."
+    ],
+    "Escada Sorbetto Rosso": [
+      "Fruity",
+      "",
+      "",
+      "",
+      "Juicy watermelon and summer fruit."
+    ],
+    "Delina La Rosee": [
+      "Floral",
+      "pear, lychee, bergamot",
+      "Turkish rose, peony",
+      "white musk, vetiver",
+      "Dewy rose with juicy lychee."
+    ],
+    "Escada Sexy Graffiti": [
+      "Fruity",
+      "red berries, strawberry, grapefruit",
+      "lily of the valley, peony, violet",
+      "vanilla, musk",
+      "Playful red berries with a sweet, soft finish."
+    ],
+    "Escada Pacific Paradise": [
+      "Fruity",
+      "",
+      "",
+      "",
+      "Tropical and fruity, made for hot days."
+    ],
+    "Escada Taj Sunset": [
+      "Fruity",
+      "",
+      "",
+      "",
+      "Juicy mango and tropical fruit."
+    ],
+    "Escada Moon Sparkle": [
+      "Fruity",
+      "strawberry, blackcurrant, red apple, citrus",
+      "freesia, jasmine, sweet pea",
+      "raspberry, sandalwood, amber, musk",
+      "Sweet berries and light flowers."
+    ],
+    "Givenchy L'Interdit": [
+      "Floral",
+      "pear, bergamot",
+      "tuberose, orange blossom, jasmine",
+      "patchouli, vetiver, vanilla",
+      "White flowers over a dark, woody base."
+    ],
+    "Fantasy": [
+      "Sweet",
+      "kiwi, lychee, quince",
+      "cupcake, white chocolate, jasmine, orchid",
+      "musk, orris root, woods",
+      "Sweet fruit and white chocolate. Fun and sugary."
+    ],
+    "Givenchy Irresistible": [
+      "Floral",
+      "pear, ambrette",
+      "rose, iris",
+      "cedar, musk, blond woods",
+      "Fresh, fruity rose. Light and feminine."
+    ],
+    "Gucci Rush": [
+      "Floral",
+      "freesia, peach, gardenia",
+      "jasmine, rose, coriander",
+      "patchouli, vanilla, vetiver",
+      "Peachy flowers on warm patchouli."
+    ],
+    "Gucci Guilty Black Woman": [
+      "Fruity",
+      "red fruits, pink pepper",
+      "peach, lilac, violet",
+      "patchouli, amber",
+      "Red fruit and flowers with a dark base."
+    ],
+    "Girl Of Now": [
+      "Sweet",
+      "pistachio, pear, mandarin",
+      "orange blossom, almond, jasmine, magnolia",
+      "almond milk, tonka bean, patchouli, cashmere wood",
+      "Creamy almond and pistachio with orange blossom."
+    ],
+    "Gucci Flora": [
+      "Floral",
+      "",
+      "",
+      "",
+      "A fresh, pretty bouquet."
+    ],
+    "Jennifer Lopez Live": [
+      "Fruity",
+      "",
+      "",
+      "",
+      "Sunny pineapple and citrus with soft flowers."
+    ],
+    "Jewel Of Jasmine": [
+      "Floral",
+      "",
+      "",
+      "",
+      "Jasmine at the centre."
+    ],
+    "Initio Side Effect": [
+      "Sweet",
+      "rum",
+      "tobacco, cinnamon",
+      "vanilla, saffron",
+      "Boozy vanilla, tobacco and cinnamon. Very rich."
+    ],
+    "La Vie Est Belle": [
+      "Sweet",
+      "blackcurrant, pear",
+      "iris, jasmine, orange blossom",
+      "praline, vanilla, patchouli, tonka bean",
+      "Sweet praline and iris. Happy and elegant."
+    ],
+    "Love Spell": [
+      "Fruity",
+      "",
+      "",
+      "",
+      "Peach and cherry blossom. Sweet and flirty."
+    ],
+    "Lacoste Femme": [
+      "Floral",
+      "pepper, freesia",
+      "jasmine, heliotrope, hibiscus, rose",
+      "suede, cedar, sandalwood, incense",
+      "Soft, powdery flowers on smooth suede."
+    ],
+    "Libre": [
+      "Floral",
+      "lavender, mandarin, blackcurrant",
+      "orange blossom, jasmine",
+      "vanilla, musk, cedar, ambergris",
+      "Lavender and orange blossom on warm vanilla."
+    ],
+    "Lady Million": [
+      "Floral",
+      "raspberry, neroli, lemon",
+      "jasmine, orange blossom, gardenia",
+      "honey, patchouli, amber",
+      "Sweet honeyed flowers. Bold and glamorous."
+    ],
+    "La Nuit Tresor": [
+      "Sweet",
+      "pear",
+      "black rose, vanilla orchid, strawberry",
+      "praline, vanilla, patchouli, incense",
+      "Sweet rose and praline for the night."
+    ],
+    "Lattafa Oud Mood": [
+      "Amber & Oud",
+      "",
+      "",
+      "",
+      "Sweet, smoky oud."
+    ],
+    "Life Is Beautiful": [
+      "Sweet",
+      "blackcurrant, pear",
+      "iris, jasmine, orange blossom",
+      "praline, vanilla, patchouli, tonka bean",
+      "Sweet praline and iris. Happy and elegant."
+    ],
+    "Kenzo Amour": [
+      "Sweet",
+      "cherry blossom, frangipani, white tea",
+      "rice, heliotrope",
+      "vanilla, musk, incense, thanaka wood",
+      "Soft, milky and powdery with vanilla."
+    ],
+    "Hypnotic Poison": [
+      "Sweet",
+      "apricot, plum, coconut",
+      "jasmine, tuberose, caraway, rose",
+      "vanilla, almond, sandalwood, musk",
+      "Creamy almond and vanilla. Rich and seductive."
+    ],
+    "Jadore": [
+      "Floral",
+      "pear, melon, magnolia, peach, bergamot",
+      "jasmine, lily of the valley, tuberose, rose",
+      "musk, vanilla, cedar",
+      "A bright bouquet of white flowers."
+    ],
+    "My Way": [
+      "Floral",
+      "orange blossom, bergamot",
+      "tuberose, jasmine",
+      "vanilla, white musk, cedar",
+      "Clean white flowers on soft vanilla."
+    ],
+    "Midnight Fantasy": [
+      "Fruity",
+      "black cherry, plum, raspberry",
+      "orchid, iris, freesia",
+      "amber, musk, vanilla",
+      "Dark, sweet berries with vanilla."
+    ],
+    "Mayar By Lattafa": [
+      "Floral",
+      "lychee, raspberry, violet leaf",
+      "white rose, peony, jasmine",
+      "musk, vanilla",
+      "Juicy lychee and rose. Fresh and girly."
+    ],
+    "Marry Me": [
+      "Floral",
+      "bitter orange, freesia, peach",
+      "jasmine, magnolia, rose",
+      "white musk, amber, cedar",
+      "Fresh jasmine with a soft, clean finish."
+    ],
+    "Oud Bouquet": [
+      "Amber & Oud",
+      "",
+      "",
+      "",
+      "Oud softened with flowers."
+    ],
+    "Olympea": [
+      "Sweet",
+      "green mandarin, water jasmine, ginger flower",
+      "salted vanilla",
+      "ambergris, cashmere wood, sandalwood",
+      "Salty-sweet vanilla. Fresh and creamy at once."
+    ],
+    "Pink Amber": [
+      "Amber & Oud",
+      "",
+      "",
+      "",
+      "Soft, sweet amber."
+    ],
+    "Pleasures": [
+      "Floral",
+      "white lily, violet leaf, freesia, pink pepper",
+      "peony, lilac, rose, jasmine",
+      "sandalwood, musk, patchouli, cedar",
+      "Fresh, airy spring flowers."
+    ],
+    "Pure Musk": [
+      "Musk",
+      "",
+      "",
+      "",
+      "Soft, clean musk that sits close to the skin."
+    ],
+    "Pink Sugar": [
+      "Sweet",
+      "raspberry, bergamot, fig leaf, orange",
+      "cotton candy, liquorice, strawberry",
+      "caramel, vanilla, musk, tonka bean",
+      "Candy floss and caramel. Very sweet."
+    ],
+    "Pearl Oud": [
+      "Amber & Oud",
+      "",
+      "",
+      "",
+      "Smooth, rich oud."
+    ],
+    "Pure Seduction": [
+      "Fruity",
+      "",
+      "",
+      "",
+      "Juicy red plum and freesia."
+    ],
+    "Pink Chiffon": [
+      "Sweet",
+      "",
+      "",
+      "",
+      "Pear, soft flowers and vanilla. Light and pretty."
+    ],
+    "Si Armani": [
+      "Sweet",
+      "blackcurrant",
+      "rose, freesia",
+      "vanilla, patchouli, woods",
+      "Blackcurrant and rose on warm vanilla. Chic."
+    ],
+    "Scandal": [
+      "Sweet",
+      "blood orange, mandarin",
+      "honey, gardenia, orange blossom, jasmine",
+      "beeswax, caramel, patchouli",
+      "Thick honey and white flowers."
+    ],
+    "Stronger With You": [
+      "Sweet",
+      "cardamom, pink pepper, violet leaf",
+      "sage",
+      "chestnut, vanilla, amber wood, cedar",
+      "Sweet chestnut and vanilla with warm spice."
+    ],
+    "Red Door": [
+      "Floral",
+      "ylang-ylang, peach, plum, orange blossom",
+      "rose, jasmine, carnation, tuberose, lily",
+      "honey, sandalwood, amber, musk, oakmoss",
+      "A big, classic floral bouquet."
+    ],
+    "Riri": [
+      "Fruity",
+      "passion fruit, blackcurrant, mandarin, rum",
+      "pink freesia, honeysuckle, jasmine, orange blossom",
+      "vanilla, musk, sandalwood, amber",
+      "Sweet tropical fruit and flowers."
+    ],
+    "Water Lily": [
+      "Floral",
+      "",
+      "",
+      "",
+      "Light, watery flowers."
+    ],
+    "A Thousand Wishes": [
+      "Fruity",
+      "pink prosecco, star fruit, quince",
+      "peony, freesia",
+      "amaretto cream, amber, musk",
+      "Sparkling fruit and flowers with a sweet almond finish."
+    ],
+    "Romance": [
+      "Floral",
+      "rose, ginger, chamomile, lemon",
+      "lily, violet, lotus, carnation",
+      "musk, patchouli, oakmoss",
+      "Fresh, romantic rose and lily."
+    ],
+    "Vanilla Flora": [
+      "Sweet",
+      "",
+      "",
+      "",
+      "Vanilla with soft flowers."
+    ],
+    "Yellow Diamond": [
+      "Floral",
+      "lemon, bergamot, neroli, pear sorbet",
+      "orange blossom, freesia, mimosa, water lily",
+      "amber, musk, guaiac wood",
+      "Sparkling citrus and airy flowers."
+    ],
+    "Vanilla": [
+      "Sweet",
+      "",
+      "",
+      "",
+      "Simple, warm vanilla."
+    ],
+    "Vanilla Island": [
+      "Sweet",
+      "",
+      "",
+      "",
+      "Vanilla with a tropical touch."
+    ],
+    "Tommy Girl": [
+      "Fresh",
+      "apple blossom, blackcurrant, mandarin",
+      "honeysuckle, lily, violet, rose",
+      "sandalwood, cedar",
+      "Fresh, green and floral. Casual and clean."
+    ],
+    "Versace Crystal Noir": [
+      "Floral",
+      "pepper, ginger, cardamom",
+      "coconut, gardenia, orange blossom, peony",
+      "sandalwood, musk, amber",
+      "Creamy gardenia and coconut. Warm and sensual."
+    ],
+    "Tiffany": [
+      "Floral",
+      "mandarin, bergamot, lemon",
+      "iris, blackcurrant, peach, rose",
+      "patchouli, musk",
+      "Sparkling citrus and elegant iris."
+    ],
+    "Oud Vanilla": [
+      "Amber & Oud",
+      "",
+      "",
+      "",
+      "Oud sweetened with vanilla."
+    ],
+    "Baby Powder": [
+      "Musk",
+      "",
+      "",
+      "",
+      "Soft, clean and powdery."
+    ],
+    "Club De Nuit Woman": [
+      "Floral",
+      "orange, peach, grapefruit, bergamot",
+      "rose, geranium, jasmine, lychee",
+      "patchouli, vanilla, vetiver, musk",
+      "Fruity rose with an elegant patchouli base."
+    ],
+    "Gucci Guilty Man": [
+      "Woody",
+      "lemon, lavender",
+      "orange blossom",
+      "patchouli, cedar",
+      "Clean lemon and lavender on smooth woods."
+    ],
+    "Khamrah By Lattafa": [
+      "Sweet",
+      "cinnamon, nutmeg, bergamot",
+      "dates, praline, tuberose",
+      "vanilla, tonka bean, benzoin, myrrh, amber wood",
+      "Spiced dates and vanilla. Rich, warm and very sweet."
+    ],
+    "Lemon": [
+      "Fresh",
+      "",
+      "",
+      "",
+      "Bright, zesty lemon."
+    ],
+    "Marshmallow Blush": [
+      "Sweet",
+      "",
+      "",
+      "",
+      "Soft, sugary marshmallow."
+    ],
+    "Yara Candy": [
+      "Sweet",
+      "",
+      "",
+      "",
+      "Candy-sweet fruit and vanilla."
+    ],
+    "Yara Pink": [
+      "Sweet",
+      "orchid, heliotrope, tangerine",
+      "creamy sweet accord, tropical fruits",
+      "vanilla, musk, sandalwood",
+      "Creamy, powdery and sweet, like strawberry milkshake."
+    ],
+    "Yum Pistachio": [
+      "Sweet",
+      "pistachio, cardamom, bergamot",
+      "hazelnut gelato, whipped cream, rum",
+      "cotton candy, vanilla, tonka bean",
+      "Creamy pistachio ice cream."
+    ],
+    "Yum Boujee": [
+      "Sweet",
+      "",
+      "",
+      "",
+      "Strawberry and soft marshmallow."
+    ],
+    "Vanilla Powder": [
+      "Sweet",
+      "",
+      "",
+      "",
+      "Soft, powdery vanilla."
+    ],
+    "Vanilla Candy Rock Sugar": [
+      "Sweet",
+      "",
+      "",
+      "",
+      "Candy, sugar and vanilla."
+    ],
+    "Kayali Vanilla 28": [
+      "Sweet",
+      "jasmine, vanilla orchid",
+      "Madagascar vanilla, tonka bean, brown sugar",
+      "amber, musk, patchouli",
+      "Deep, warm vanilla with brown sugar."
+    ],
+    "Yara": [
+      "Sweet",
+      "orchid, heliotrope, tangerine",
+      "creamy sweet accord, tropical fruits",
+      "vanilla, musk, sandalwood",
+      "Creamy, powdery and sweet, like strawberry milkshake."
+    ],
+    "Eclaire": [
+      "Sweet",
+      "caramel, milk, sugar",
+      "honey, white flowers",
+      "vanilla, praline, musk",
+      "Caramel, milk and vanilla, like a pastry."
+    ],
+    "9PM": [
+      "Sweet",
+      "apple, cinnamon, lavender, bergamot",
+      "orange blossom, lily of the valley",
+      "vanilla, tonka bean, amber, patchouli",
+      "Sweet apple and cinnamon over warm vanilla. Bold and long lasting."
+    ],
+    "Kayali Eden Juice": [
+      "Fruity",
+      "red apple, blackcurrant, wild berries",
+      "rose, jasmine",
+      "vanilla, musk, moss",
+      "Crisp, juicy apple and berries on sweet musk."
+    ]
+  },
+  "scentFamilies": {
+    "All": "Every profile, from fresh to oud.",
+    "Fresh": "Clean, cool and citrusy. Easy to wear in the day and in hot weather.",
+    "Floral": "Rose, jasmine and orange blossom. Soft and romantic.",
+    "Fruity": "Berries, apple, peach and tropical fruit. Bright and playful.",
+    "Sweet": "Vanilla, caramel, praline and coffee. Warm, like dessert.",
+    "Woody": "Cedar, sandalwood, patchouli and leather. Dry and deep.",
+    "Amber & Oud": "Oud, amber, saffron and incense. Rich, strong and Arabian in style.",
+    "Musk": "Soft, clean and close to the skin."
+  },
+  "popularScents": [
+    "Sauvage Dior",
+    "Creed Aventus",
+    "Blue De Chanel",
+    "One Million",
+    "Invictus",
+    "Versace Eros",
+    "Black Opium",
+    "La Vie Est Belle",
+    "Jadore",
+    "Coco Mademoiselle",
+    "Bvlgari Man In Black",
+    "Khamrah By Lattafa"
+  ]
+}
