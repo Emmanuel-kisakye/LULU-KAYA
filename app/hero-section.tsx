@@ -7,12 +7,11 @@ import ShopModeLink from "./shop/shop-mode-link";
 
 export default function HeroSection() {
   const [isStaticReturn] = useState(shouldUseStaticHero);
-  const [videoEnded, setVideoEnded] = useState(isStaticReturn);
   const [videoError, setVideoError] = useState(false);
 
   return (
     <section
-      className={`hero${videoEnded ? " hero-ended" : ""}${videoError ? " hero-video-error" : ""}${isStaticReturn ? " hero-static" : ""}`}
+      className={`hero${videoError ? " hero-video-error" : ""}${isStaticReturn ? " hero-static" : ""}`}
       id="home"
       aria-labelledby="hero-title"
     >
@@ -21,16 +20,14 @@ export default function HeroSection() {
           <video
             className="hero-video"
             src="/reference/img/HeroVid.mp4"
+            width={1920}
+            height={1080}
             autoPlay
             muted
             playsInline
             preload="auto"
             poster="/reference/img/Heroimg.jpg"
-            onEnded={() => setVideoEnded(true)}
-            onError={() => {
-              setVideoError(true);
-              setVideoEnded(true);
-            }}
+            onError={() => setVideoError(true)}
             aria-hidden="true"
             tabIndex={-1}
           />
@@ -40,16 +37,13 @@ export default function HeroSection() {
           src="/reference/img/Heroimg.jpg"
           alt=""
           fill
-          priority
+          preload
           sizes="100vw"
           aria-hidden="true"
         />
       </div>
       <div className="hero-inner">
-        <div
-          className={`hero-copy${videoEnded ? " hero-copy-visible" : ""}`}
-          aria-hidden={!videoEnded}
-        >
+        <div className="hero-copy hero-copy-visible">
           <p className="eyebrow">Where Beauty Finds Refuge · Bukoto, Kampala</p>
           <h1 id="hero-title">
             Perfume oils from <br /><span>UGX 5,000.</span>

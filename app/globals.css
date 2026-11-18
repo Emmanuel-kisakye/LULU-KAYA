@@ -300,6 +300,10 @@ body {
   transition: opacity 500ms ease;
 }
 
+.hero-video {
+  opacity: 1;
+}
+
 .hero-poster {
   opacity: 0;
 }
